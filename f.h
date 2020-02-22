@@ -1,9 +1,9 @@
-typedef struct{
+typedef struct {
     int x;
     int y;
-}point;
+} point;
 
-typedef struct{
+typedef struct {
     point center;
     int radius;
-}circle;
+} circle;
